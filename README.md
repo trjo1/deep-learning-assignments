@@ -13,19 +13,19 @@ This repository contains my projects and assignments completed as part of the Co
 The course comprised four modules with a blend of theory and practical assignments.
 
 ### Module 1: CNN Basics and Case Studies
-- **Videos**: 127 minutes covering classic networks like ResNet, Inception Network, MobileNet, and EfficientNet.
+- **Videos**: Covering classic networks like ResNet, Inception Network, MobileNet, and EfficientNet.
 - **Programming Assignments**: 
   - Implementing Residual Networks
   - Transfer Learning with MobileNet
 
 ### Module 2: Object Detection
-- **Videos**: 110 minutes focusing on object localization, YOLO algorithm, and semantic segmentation with U-Net.
+- **Videos**: Focusing on object localization, YOLO algorithm, and semantic segmentation with U-Net.
 - **Programming Assignments**: 
   - Car Detection using YOLO
   - Image Segmentation with U-Net
 
 ### Module 3: Specialized CNN Applications
-- **Videos**: 75 minutes exploring face recognition and neural style transfer.
+- **Videos**: Exploring face recognition and neural style transfer.
 - **Programming Assignments**: 
   - Face Recognition
   - Art Generation with Neural Style Transfer
